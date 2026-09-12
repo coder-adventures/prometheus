@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-09-12T09:38:13.445Z",
+  "sources": [
+    {
+      "name": "multpl Shiller CAPE",
+      "file": "multpl_cape.html",
+      "fresh": true,
+      "fetchedAt": "2026-09-12T09:34:21.925Z"
+    },
+    {
+      "name": "multpl S&P 500 price",
+      "file": "multpl_sp500.html",
+      "fresh": true,
+      "fetchedAt": "2026-09-12T09:34:21.985Z"
+    },
+    {
+      "name": "Epoch AI notable models",
+      "file": "epoch_notable.csv",
+      "fresh": true,
+      "fetchedAt": "2026-09-12T09:34:22.061Z"
+    },
+    {
+      "name": "FRED NASDAQCOM",
+      "file": "fred_NASDAQCOM.csv",
+      "fresh": false,
+      "fetchedAt": "2026-09-12T09:34:14.944Z",
+      "note": "live fetch failed, using cache"
+    }
+  ]
+}
